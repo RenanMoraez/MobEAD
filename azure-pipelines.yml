@@ -13,12 +13,11 @@ pool:
 # Run a command line script using Bash on Linux and macOS and cmd.exe on Windows
 
 
+
 variables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
-
-
 
 steps:
 
